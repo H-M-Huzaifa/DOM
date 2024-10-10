@@ -1,0 +1,23 @@
+.moderate{
+    background-color: green; color: white;
+}
+
+.hot{
+    background-color: rgb(230, 73, 73); color: white;
+}
+
+.cool{
+    background-color: skyblue; color: white;
+}
+
+.button{
+    border-radius: 22px; background-color: teal; color: white; border: none; width: 12em; height: 3em; 
+}
+
+.body{
+    text-align: center;
+}
+
+.inputField{
+    border-radius: 22px; width: 15em; height: 2em;
+}
